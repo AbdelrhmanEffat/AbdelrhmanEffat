@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdelrhmanEffat
 - 👀 I’m interested in Data and its fields 
-- 🌱 I’m currently learning Adobe programs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Adobe programs, and Data Analysis 
+- 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me, abdelrhmaneffat24@gmail.com
 
 <!---
