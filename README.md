@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdelrhmanEffat
-- 👀 I’m interested in Data Science(Planning to be a Data Scientist.)
+- 👀 I’m interested in Data Science.
 - 🌱 Recently completed Google Data Analytics Professional Certificate. 
 - 🌱 I’m currently learning Data Warehousing for Business Intelligence Specialization and re-visits Single Variable Calculus.
 - 💞️ I’m looking to collaborate on Data Analysis Projects.
