@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdelrhmanEffat
 - 👀 I’m interested in Data Science.
 - 🌱 Recently completed Google Data Analytics Professional Certificate. 
-- 🌱 I’m currently learning Data Warehousing for Business Intelligence Specialization and re-visits Single Variable Calculus.
+- 🌱 I’m currently learning IT automation with Python and Scripting.
 - 💞️ I’m looking to collaborate on Data Analysis Projects.
 - 📫 How to reach me, abdelrhmaneffat24@gmail.com
 
