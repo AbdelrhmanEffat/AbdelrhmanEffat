@@ -3,7 +3,7 @@
 - 🌱 Recently completed Google Data Analytics Professional Certificate. 
 - 🌱 I’m currently Working on side Projects & Reading Head First Data Analysis Book.
 - 💞️ I’m looking to collaborate on Data Analysis Projects.
-- 📫 How to reach me, deng_effat@mailfence.com
+- 📫 How to reach me, dseng_effat@outlook.com
 
 <!---
 AbdelrhmanEffat/AbdelrhmanEffat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
