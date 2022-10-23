@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdelrhmanEffat
 - 👀 I’m interested in Data Science.
-- 🌱 Recently completed Google Data Analytics Professional Certificate. 
-- 🌱 I’m currently Working on side Projects & Reading Head First Data Analysis Book.
+- 🌱 I have Google Data Analytics Professional Certificate. 
+- 🌱 I’m currently Working on side Projects & Studying Machine Learning.
 - 💞️ I’m looking to collaborate on Data Analysis Projects.
 - 📫 How to reach me, dseng_effat@outlook.com
 
