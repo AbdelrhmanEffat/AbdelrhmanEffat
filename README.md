@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AbdelrhmanEffat
-- 👀 I’m interested in Data Science.
-- 🌱 I have Google Data Analytics Professional Certificate. 
-- 🌱 I’m currently Working on side Projects & Studying Machine Learning.
-- 💞️ I’m looking to collaborate on Data Analysis Projects.
+- 👀 Looking forward to being a Data Scientist.
+- 🌱 I have 2+ years of experience working in  data analysis, data governance, data management, Data Visualization, Data Mining techniques, and dealing with huge data sets. 
+- 🌱 I’m currently Working as a Service Audit and Control Engineer @ Telecom Egypt.
+- 💞️ I’m looking to collaborate on Data Analytics and Business Intelligence Solutions.
 - 📫 How to reach me, dseng_effat@outlook.com
 
 <!---
